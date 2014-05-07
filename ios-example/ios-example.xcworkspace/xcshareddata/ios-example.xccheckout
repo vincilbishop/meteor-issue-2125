@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>43844FE4-FA5F-4A3A-A9A3-F11AB4F63723</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ios-example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>63C3AD7D-3ADF-440B-99D6-4AAD8CC9BA1C</key>
+		<string>ssh://github.com/premosystems/meteor-issue-2125.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios-example/ios-example.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>63C3AD7D-3ADF-440B-99D6-4AAD8CC9BA1C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/premosystems/meteor-issue-2125.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>63C3AD7D-3ADF-440B-99D6-4AAD8CC9BA1C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>63C3AD7D-3ADF-440B-99D6-4AAD8CC9BA1C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>meteor-issue-2125</string>
+		</dict>
+	</array>
+</dict>
+</plist>

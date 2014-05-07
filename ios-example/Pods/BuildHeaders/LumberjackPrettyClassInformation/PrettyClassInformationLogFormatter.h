@@ -1,0 +1,1 @@
+../../LumberjackPrettyClassInformation/LogFormatter/PrettyClassInformationLogFormatter.h

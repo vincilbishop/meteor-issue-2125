@@ -1,0 +1,39 @@
+PODS:
+  - CocoaLumberjack (1.8.1):
+    - CocoaLumberjack/Extensions
+  - CocoaLumberjack/Core (1.8.1)
+  - CocoaLumberjack/Extensions (1.8.1):
+    - CocoaLumberjack/Core
+  - LumberjackPrettyClassInformation (1.0.0):
+    - CocoaLumberjack (~> 1.8.0)
+  - MyiOSHelpers/Logic/ThirdPartyHelpers/CocoaLumberjack (0.0.3):
+    - CocoaLumberjack
+    - LumberjackPrettyClassInformation (~> 1.0.0)
+  - MyMeteor/Core (0.0.2):
+    - MyiOSHelpers/Logic/ThirdPartyHelpers/CocoaLumberjack (~> 0.0.3)
+    - ObjectiveDDP (~> 0.1.3)
+  - ObjectiveDDP (0.1.3):
+    - SocketRocket (= 0.3.1-beta2)
+  - ReactiveCocoa (2.3):
+    - ReactiveCocoa/UI
+  - ReactiveCocoa/Core (2.3):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.3)
+  - ReactiveCocoa/UI (2.3):
+    - ReactiveCocoa/Core
+  - SocketRocket (0.3.1-beta2)
+
+DEPENDENCIES:
+  - MyMeteor/Core (~> 0.0.2)
+  - ReactiveCocoa (~> 2.3)
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 020378ec400d658923bf5887178394f65f052c90
+  LumberjackPrettyClassInformation: 5eddd71b19751c0722afd26f9330a738969bfc19
+  MyiOSHelpers: d6256ea6cf79faa5be2956e5b187f4732bd13c59
+  MyMeteor: d9983bc17a4fc9df44ccaab7012c9ab417ee03c4
+  ObjectiveDDP: e08b82f13b1827406970e3dac815b7cd3c0b0148
+  ReactiveCocoa: dde7b11a14954edf789e7343b2c32e595caabd01
+  SocketRocket: 7ac946bcce46287a791dfff3c1f8daa692821dae
+
+COCOAPODS: 0.32.1

@@ -1,0 +1,1 @@
+../../MyMeteor/MyMeteor/Core/NSError+MYMeteorAdditions.h

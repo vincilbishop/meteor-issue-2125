@@ -1,0 +1,80 @@
+
+// To check if a library is compiled with CocoaPods you
+// can use the `COCOAPODS` macro definition which is
+// defined in the xcconfigs so it is available in
+// headers also when they are imported in the client
+// project.
+
+
+// CocoaLumberjack
+#define COCOAPODS_POD_AVAILABLE_CocoaLumberjack
+#define COCOAPODS_VERSION_MAJOR_CocoaLumberjack 1
+#define COCOAPODS_VERSION_MINOR_CocoaLumberjack 8
+#define COCOAPODS_VERSION_PATCH_CocoaLumberjack 1
+
+// CocoaLumberjack/Core
+#define COCOAPODS_POD_AVAILABLE_CocoaLumberjack_Core
+#define COCOAPODS_VERSION_MAJOR_CocoaLumberjack_Core 1
+#define COCOAPODS_VERSION_MINOR_CocoaLumberjack_Core 8
+#define COCOAPODS_VERSION_PATCH_CocoaLumberjack_Core 1
+
+// CocoaLumberjack/Extensions
+#define COCOAPODS_POD_AVAILABLE_CocoaLumberjack_Extensions
+#define COCOAPODS_VERSION_MAJOR_CocoaLumberjack_Extensions 1
+#define COCOAPODS_VERSION_MINOR_CocoaLumberjack_Extensions 8
+#define COCOAPODS_VERSION_PATCH_CocoaLumberjack_Extensions 1
+
+// LumberjackPrettyClassInformation
+#define COCOAPODS_POD_AVAILABLE_LumberjackPrettyClassInformation
+#define COCOAPODS_VERSION_MAJOR_LumberjackPrettyClassInformation 1
+#define COCOAPODS_VERSION_MINOR_LumberjackPrettyClassInformation 0
+#define COCOAPODS_VERSION_PATCH_LumberjackPrettyClassInformation 0
+
+// MyMeteor/Core
+#define COCOAPODS_POD_AVAILABLE_MyMeteor_Core
+#define COCOAPODS_VERSION_MAJOR_MyMeteor_Core 0
+#define COCOAPODS_VERSION_MINOR_MyMeteor_Core 0
+#define COCOAPODS_VERSION_PATCH_MyMeteor_Core 2
+
+// MyiOSHelpers/Logic/ThirdPartyHelpers/CocoaLumberjack
+#define COCOAPODS_POD_AVAILABLE_MyiOSHelpers_Logic_ThirdPartyHelpers_CocoaLumberjack
+#define COCOAPODS_VERSION_MAJOR_MyiOSHelpers_Logic_ThirdPartyHelpers_CocoaLumberjack 0
+#define COCOAPODS_VERSION_MINOR_MyiOSHelpers_Logic_ThirdPartyHelpers_CocoaLumberjack 0
+#define COCOAPODS_VERSION_PATCH_MyiOSHelpers_Logic_ThirdPartyHelpers_CocoaLumberjack 3
+
+// ObjectiveDDP
+#define COCOAPODS_POD_AVAILABLE_ObjectiveDDP
+#define COCOAPODS_VERSION_MAJOR_ObjectiveDDP 0
+#define COCOAPODS_VERSION_MINOR_ObjectiveDDP 1
+#define COCOAPODS_VERSION_PATCH_ObjectiveDDP 3
+
+// ReactiveCocoa
+#define COCOAPODS_POD_AVAILABLE_ReactiveCocoa
+#define COCOAPODS_VERSION_MAJOR_ReactiveCocoa 2
+#define COCOAPODS_VERSION_MINOR_ReactiveCocoa 3
+#define COCOAPODS_VERSION_PATCH_ReactiveCocoa 0
+
+// ReactiveCocoa/Core
+#define COCOAPODS_POD_AVAILABLE_ReactiveCocoa_Core
+#define COCOAPODS_VERSION_MAJOR_ReactiveCocoa_Core 2
+#define COCOAPODS_VERSION_MINOR_ReactiveCocoa_Core 3
+#define COCOAPODS_VERSION_PATCH_ReactiveCocoa_Core 0
+
+// ReactiveCocoa/UI
+#define COCOAPODS_POD_AVAILABLE_ReactiveCocoa_UI
+#define COCOAPODS_VERSION_MAJOR_ReactiveCocoa_UI 2
+#define COCOAPODS_VERSION_MINOR_ReactiveCocoa_UI 3
+#define COCOAPODS_VERSION_PATCH_ReactiveCocoa_UI 0
+
+// ReactiveCocoa/no-arc
+#define COCOAPODS_POD_AVAILABLE_ReactiveCocoa_no_arc
+#define COCOAPODS_VERSION_MAJOR_ReactiveCocoa_no_arc 2
+#define COCOAPODS_VERSION_MINOR_ReactiveCocoa_no_arc 3
+#define COCOAPODS_VERSION_PATCH_ReactiveCocoa_no_arc 0
+
+// SocketRocket
+#define COCOAPODS_POD_AVAILABLE_SocketRocket
+#define COCOAPODS_VERSION_MAJOR_SocketRocket 0
+#define COCOAPODS_VERSION_MINOR_SocketRocket 3
+#define COCOAPODS_VERSION_PATCH_SocketRocket 1
+

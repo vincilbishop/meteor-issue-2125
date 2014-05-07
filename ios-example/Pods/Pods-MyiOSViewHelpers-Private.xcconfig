@@ -1,0 +1,5 @@
+#include "Pods-MyiOSViewHelpers.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/MyiOSViewHelpers" "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/CocoaLumberjack" "${PODS_ROOT}/Headers/DCKeyValueObjectMapping" "${PODS_ROOT}/Headers/LumberjackPrettyClassInformation" "${PODS_ROOT}/Headers/MBProgressHUD" "${PODS_ROOT}/Headers/MMDrawerController" "${PODS_ROOT}/Headers/MyMeteor" "${PODS_ROOT}/Headers/MyiOSHelpers" "${PODS_ROOT}/Headers/MyiOSViewHelpers" "${PODS_ROOT}/Headers/NSDate+Helper" "${PODS_ROOT}/Headers/NSObject-ObjectMap" "${PODS_ROOT}/Headers/ObjectiveDDP" "${PODS_ROOT}/Headers/RDVKeyboardAvoiding" "${PODS_ROOT}/Headers/SocketRocket" "${PODS_ROOT}/Headers/UIActionSheet+Blocks" "${PODS_ROOT}/Headers/US2FormValidator" "${PODS_ROOT}/Headers/Underscore.m"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}

@@ -1,0 +1,8 @@
+# iOS Platform
+platform :ios, '7.0'
+
+# Inhibits all the warnings from the CocoaPods libraries.
+inhibit_all_warnings!
+
+pod 'MyMeteor/Core', '~>0.0.2'
+pod 'ReactiveCocoa', '~>2.3'

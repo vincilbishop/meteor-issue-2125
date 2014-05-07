@@ -1,0 +1,6 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/CocoaLumberjack" "${PODS_ROOT}/Headers/LumberjackPrettyClassInformation" "${PODS_ROOT}/Headers/MyMeteor" "${PODS_ROOT}/Headers/MyiOSHelpers" "${PODS_ROOT}/Headers/ObjectiveDDP" "${PODS_ROOT}/Headers/ReactiveCocoa" "${PODS_ROOT}/Headers/ReactiveCocoa/ReactiveCocoa" "${PODS_ROOT}/Headers/SocketRocket"
+LIBRARY_SEARCH_PATHS = $(PODS_ROOT)/ObjectiveDDP/ObjectiveDDP/**
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers" -isystem "${PODS_ROOT}/Headers/CocoaLumberjack" -isystem "${PODS_ROOT}/Headers/LumberjackPrettyClassInformation" -isystem "${PODS_ROOT}/Headers/MyMeteor" -isystem "${PODS_ROOT}/Headers/MyiOSHelpers" -isystem "${PODS_ROOT}/Headers/ObjectiveDDP" -isystem "${PODS_ROOT}/Headers/ReactiveCocoa" -isystem "${PODS_ROOT}/Headers/ReactiveCocoa/ReactiveCocoa" -isystem "${PODS_ROOT}/Headers/SocketRocket"
+OTHER_LDFLAGS = -ObjC -lcrypto -licucore -framework CFNetwork -framework Security
+PODS_ROOT = ${SRCROOT}/Pods
